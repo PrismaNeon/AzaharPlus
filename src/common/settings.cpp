@@ -55,6 +55,8 @@ std::string_view GetTextureFilterName(TextureFilter filter) {
         return "xBRZ";
     case TextureFilter::MMPX:
         return "MMPX";
+    case TextureFilter::FSR1:
+        return "FSR1";
     default:
         return "Invalid";
     }

@@ -121,6 +121,7 @@ enum class TextureFilter : u32 {
     ScaleForce = 3,
     xBRZ = 4,
     MMPX = 5,
+    FSR1 = 6,
 };
 
 enum class TextureSampling : u32 {

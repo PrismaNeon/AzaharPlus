@@ -301,7 +301,7 @@
     <string name="use_integer_scaling">Integer Scaling</string>
     <string name="use_integer_scaling_description">Scales the screens with an integer multiplier of the original 3DS screen. For layouts with two different screen sizes, the largest screen is integer-scaled.</string>
     <string name="texture_filter_name">Texture Filter</string>
-    <string name="texture_filter_description">Enhances the visuals of applications by applying a filter to textures. The supported filters are Anime4K Ultrafast, Bicubic, ScaleForce, xBRZ freescale, and MMPX.</string>
+    <string name="texture_filter_description">Enhances the visuals of applications by applying a filter to textures. The supported filters are Anime4K Ultrafast, Bicubic, ScaleForce, xBRZ freescale, MMPX, and FSR 1.</string>
     <string name="delay_render_thread">Delay Game Render Thread</string>
     <string name="delay_render_thread_description">Delay the game render thread when it submits data to the GPU. Helps with performance issues in the (very few) applications with dynamic framerates.</string>
     <string name="simulate_3ds_gpu_timings">Simulate 3DS GPU Timings</string>
@@ -864,6 +864,7 @@
     <string name="scaleforce" translatable="false">ScaleForce</string>
     <string name="xbrz" translatable="false">xBRZ</string>
     <string name="mmpx" translatable="false">MMPX</string>
+    <string name="fsr1" translatable="false">FSR 1</string>
 
     <!-- Texture Sampling names -->
     <string name="game_controlled">Game Controlled</string>

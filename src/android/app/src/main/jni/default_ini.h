@@ -231,6 +231,7 @@ static const char* android_config_default_file_content = (BOOST_HANA_STRING(R"(
 # 3: ScaleForce
 # 4: xBRZ
 # 5: MMPX
+# 6: FSR1
 )") DECLARE_KEY(texture_filter) BOOST_HANA_STRING(R"(
 
 [Layout]

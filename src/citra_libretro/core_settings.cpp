@@ -422,6 +422,7 @@ static constexpr retro_core_option_v2_definition option_definitions[] = {
             { "ScaleForce", "ScaleForce" },
             { "xBRZ", "xBRZ" },
             { "MMPX", "MMPX" },
+            { "FSR1", "FSR 1" },
             { nullptr, nullptr }
         },
         "none"
@@ -947,6 +948,8 @@ static Settings::TextureFilter GetTextureFilter(const std::string& name) {
         return Settings::TextureFilter::xBRZ;
     if (name == "MMPX")
         return Settings::TextureFilter::MMPX;
+    if (name == "FSR1")
+        return Settings::TextureFilter::FSR1;
 
     return Settings::TextureFilter::NoFilter;
 }

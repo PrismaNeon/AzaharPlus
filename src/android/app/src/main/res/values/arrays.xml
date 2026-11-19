@@ -323,6 +323,7 @@
         <item>@string/scaleforce</item>
         <item>@string/xbrz</item>
         <item>@string/mmpx</item>
+        <item>@string/fsr1</item>
     </string-array>
 
     <integer-array name="textureFilterValues">
@@ -332,6 +333,7 @@
         <item>3</item>
         <item>4</item>
         <item>5</item>
+        <item>6</item>
     </integer-array>
 
     <string-array name="textureSamplingNames">

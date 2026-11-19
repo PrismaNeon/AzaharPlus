@@ -246,6 +246,11 @@
              <string notr="true">MMPX</string>
             </property>
            </item>
+           <item>
+            <property name="text">
+             <string notr="true">FSR 1</string>
+            </property>
+           </item>
           </widget>
          </item>
         </layout>
